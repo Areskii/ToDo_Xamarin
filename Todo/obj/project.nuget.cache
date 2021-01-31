@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WB2H1m9/wrPgOCk8N20uxEbx7YxxDDMNFg++SreTwJTfPUIYUlWxKMa4mcXE93qm2K/oAr2mENwSMeaURiQMug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abdes\\source\\repos\\Todo\\Todo\\Todo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdes\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Abdes\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Abdes\\.nuget\\packages\\sqlite-net-pcl\\1.6.292\\sqlite-net-pcl.1.6.292.nupkg.sha512",
+    "C:\\Users\\Abdes\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.13\\sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
+    "C:\\Users\\Abdes\\.nuget\\packages\\sqlitepclraw.core\\1.1.13\\sqlitepclraw.core.1.1.13.nupkg.sha512",
+    "C:\\Users\\Abdes\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
+  ],
+  "logs": []
+}

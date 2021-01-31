@@ -1,0 +1,1 @@
+C:\Users\Abdes\source\repos\Todo\Todo.UWP\Todo.UWP.csproj;x86
